@@ -18,7 +18,5 @@ Written in rust with standard libraries.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
 - Have a menu loop that will continue to run the program until exited.
 - Remove type casting ( y as x)
